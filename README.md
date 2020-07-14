@@ -2,7 +2,7 @@
 
 👦 Hola, soy Fer. Me gusta compartir mis conocimientos con personas interesadas en aprender a crear sitios web y programación.
 
-![Fernando Berrios](https://lh3.googleusercontent.com/-vJ1xrrRzp50/AAAAAAAAAAI/AAAAAAAAAGk/fkyBpxZCyIs/photo.jpg)
+![Mario Marquez](https://avatars1.githubusercontent.com/u/54252057?s=460&u=811ec7539c6cea948cfb3da3a3801da1cceae850&v=4)
 
 ## 📱 Contacto
 🔗 [Facebook](https://bit.ly/Fer08F)<br>
